@@ -1,0 +1,19 @@
+.articleItemCard{
+border: 1px;
+padding: 10px;
+background-color: aquamarine;
+
+}
+
+.titleCard{
+font-size: medium;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: brown;
+}
+
+.imageCard{
+margin: 20px;
+padding: 20px;
+border-radius: 3px;
+background-color: yellow;
+}

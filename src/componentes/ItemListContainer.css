@@ -1,0 +1,15 @@
+.estructuraSaludo{
+width: 1000px;
+height: 100px;
+background-color: grey;
+display: flex;
+gap: 5px;
+} 
+
+.estructuraHola{
+background-color: green;
+color: red;
+font-size: medium;
+}
+    
+

@@ -1,0 +1,13 @@
+.estructura{
+width: 90px;
+height: 50px;
+padding: 10px;
+position: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: black;
+font-size: large;
+color: white;
+padding: 5px;
+border-start-start-radius: 2px;
+};
+    
