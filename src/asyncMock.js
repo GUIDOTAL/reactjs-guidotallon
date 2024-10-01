@@ -83,11 +83,10 @@ export const getProducts = new Promise((resolve) => {
 export const getProduct = (id) => {
     return products.find((prod) => prod.id == id);
 };
+
     
-// //falta getCategory -> filter  VER MAS ADELANTE
+export const getProductsByCategory = (categoryid) => {
+    return products.filter((product) => product.category === categoryid);
     
-// export const getCategory = (category) => {
-//     return products.filter((product) => product.category === category);
-//     //va a retornar un array de prods que cumplan con esa condicion
-// };
+};
     
